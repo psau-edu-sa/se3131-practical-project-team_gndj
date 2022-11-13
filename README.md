@@ -26,5 +26,9 @@
 ### explnation video:
 https://user-images.githubusercontent.com/118076117/201493323-8417b23b-48ed-4005-be18-af0be8d745f5.mp4
 
-
+### team names:
+ghaida saud twaim / class 2983
+deena al dossari /class 232
+noura alsheddi / class 232
+jouri alghamdi / class 232
 
