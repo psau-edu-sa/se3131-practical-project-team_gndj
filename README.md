@@ -23,8 +23,7 @@
 ![IMG_1147](https://user-images.githubusercontent.com/118076117/201493023-81aa6548-a7ee-48ab-a182-fdbde7a17b5c.jpeg)
 ### petri net code:
 [Ghaida saud tuwaim petri net code.pdf](https://github.com/psau-edu-sa/se3131-article-ghaidaSaud/files/9995860/Ghaida.saud.tuwaim.petri.net.code.pdf)
-### explnation video:
-https://user-images.githubusercontent.com/118076117/201493323-8417b23b-48ed-4005-be18-af0be8d745f5.mp4
+
 
 ### team names:
 ghaida saud twaim / class 2983
